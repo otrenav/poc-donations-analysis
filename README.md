@@ -1,10 +1,8 @@
 
 # Donations Analysis
 
-- Client: Rohith Shetty (rohithshetty@gmail.com)
-- Author: Omar Trejo (omar@digitalevolutions.io)
-- Start: 2020-05-04
-- End: TBD
+- Omar Trejo
+- 2020-05-04
 
 ## Notes
 
